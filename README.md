@@ -9,7 +9,8 @@
   ## Install
   - First install all the three libraries required, if you are using  the Arduino interface go to *Sketch* ➡️ *Include Library* ➡️ *Manage Library* and search for the three
   - Make the circuit exactly like the attached schematic and connect to the PC
-   ![](https://github.com/eng-flavio/ESP-32-and-MPU6050/blob/main/esquematico.jpg?raw=true=100x20)
+  <img src="https://github.com/eng-flavio/ESP-32-and-MPU6050/blob/main/esquematico.jpg" alt="texto" width="500"/>
+  
   - Make sure if the correct Arduino module is selected
   - Run the program
   - Check the monitor serial, if you are seeing twelve values (per line) varying super fast then it is all ok, if you not, try to change the speed to 115200
