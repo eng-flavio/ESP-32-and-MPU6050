@@ -15,6 +15,6 @@
   - Run the program
   - Check the monitor serial, if you are seeing twelve values (per line) varying super fast then it is all ok, if you not, try to change the speed to 115200
   ## Aditional tips
-   -  Open the **Device Manager** menu on windows and check the COM port, this will be very important, this communication port may vary by device
+   -  Open the **Device Manager** menu on **Windows** and check the COM port, this will be very important, this communication port may vary by device
    - You can use  this together with Python (I highly recommend), MATLAB, C++ and others.
   
